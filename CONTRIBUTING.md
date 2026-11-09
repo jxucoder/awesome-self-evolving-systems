@@ -50,12 +50,9 @@ Choose the most appropriate section for your entry:
 | Section | Description |
 |---------|-------------|
 | Core Frameworks & Foundational Papers | Landmark papers that define the field or introduce major paradigms |
-| Model & Algorithm Evolution | Systems that evolve models or algorithms themselves |
-| Memory & Context Evolution | Systems that evolve their memory, context, or prompts |
-| Workflow & Architecture Evolution | Systems that evolve their own architecture or workflow |
-| Evolutionary & Population-Based Methods | Systems using population-based or evolutionary approaches |
-| Self-Play & Self-Correction Loops | Systems that improve through self-play or iterative self-correction |
-| Domain-Specific Self-Evolving Systems | Self-evolving systems applied to specific domains |
+| Model & Algorithm Evolution | Systems that evolve models, algorithms, or reward code |
+| Decision Pipeline & System Optimization | Systems that optimize multi-step decision pipelines, workflows, or their own agent logic |
+| Self-Training & Self-Play | Systems that improve through self-training, self-play, or self-generated rewards |
 | Surveys & Analysis | Survey papers and analyses of the field |
 
 If your entry doesn't fit any existing section, propose a new one in your pull request.
